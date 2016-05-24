@@ -1,4 +1,3 @@
-//TODO: Please write code in this file.
 function printInventory(inputs) {
     var allItems;
     var cart = new Array();
